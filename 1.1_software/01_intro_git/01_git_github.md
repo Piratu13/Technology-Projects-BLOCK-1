@@ -49,6 +49,7 @@ The URL will look like:
 ```
 https://github.com/your-username/Technology-Projects-BLOCK-1.git
 ```
+<img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/cb53c047-41b1-4844-abb2-94e61f903a8c" />
 
 ---
 
