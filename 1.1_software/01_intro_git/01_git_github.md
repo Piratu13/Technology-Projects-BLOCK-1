@@ -72,6 +72,8 @@ Check your current location:
 ```bash
 pwd
 ```
+<img width="1114" height="287" alt="image" src="https://github.com/user-attachments/assets/4a5188be-2325-417d-92b5-d1f77ca1156a" />
+
 
 #### **Clone Your Fork**
 
@@ -88,6 +90,7 @@ git clone https://github.com/johnsmith/Technology-Projects-BLOCK-1.git
 ```
 
 Git will download the repository to a new folder.
+<img width="1479" height="340" alt="image" src="https://github.com/user-attachments/assets/ff998f98-3f86-419e-9fa1-2ef80575073a" />
 
 #### **Enter the Project Folder**
 
@@ -111,6 +114,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 ```
+<img width="1462" height="473" alt="image" src="https://github.com/user-attachments/assets/127d226a-8fc0-446f-9351-22044b9959bf" />
 
 You are now ready to work.
 
