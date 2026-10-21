@@ -155,6 +155,13 @@ git push
 ```
 
 Your work is now stored safely in your GitHub repository.
+<img width="873" height="280" alt="image" src="https://github.com/user-attachments/assets/415f92b5-18d5-4394-91c5-8acafb41e4ee" />
+
+<img width="873" height="444" alt="image" src="https://github.com/user-attachments/assets/531c2474-52c2-4e4b-8256-1293b8313e47" />
+
+<img width="839" height="449" alt="image" src="https://github.com/user-attachments/assets/9b9a148e-0df1-4e8c-b5c8-759e22ea0bb5" />
+
+<img width="924" height="378" alt="image" src="https://github.com/user-attachments/assets/c748767c-eaae-4d17-b663-d86012d30104" />
 
 ---
 
