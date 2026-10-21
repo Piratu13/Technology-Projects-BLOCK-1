@@ -28,6 +28,7 @@ Before you can work on the project, you need to create your own copy of the repo
 - Click the **Fork** button in the top-right corner of the repository page.
 - Select your personal GitHub account as the destination.
 - Wait a few seconds while GitHub creates your copy.
+<img width="923" height="343" alt="image" src="https://github.com/user-attachments/assets/150c4102-d10e-4667-9975-3ac4d6f7a031" />
 
 You should now see a repository similar to:
 
