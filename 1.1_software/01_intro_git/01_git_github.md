@@ -116,6 +116,11 @@ nothing to commit, working tree clean
 ```
 <img width="1462" height="473" alt="image" src="https://github.com/user-attachments/assets/127d226a-8fc0-446f-9351-22044b9959bf" />
 
+Technology-Projects-BLOCK-1 open in VS Code
+<img width="662" height="181" alt="image" src="https://github.com/user-attachments/assets/32c596ea-792a-4f99-b0ee-cb8506f3d79a" />
+
+<img width="753" height="246" alt="image" src="https://github.com/user-attachments/assets/2b36447f-d394-45fa-858c-182851787aa5" />
+```
 You are now ready to work.
 
 ---
