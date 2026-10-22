@@ -9,6 +9,8 @@ Use CLI commands to inspect your system.
    ```bash
    whoami
    ```
+   <img width="620" height="102" alt="image" src="https://github.com/user-attachments/assets/7cdb3e5a-cfba-4ced-997f-042f703fbcbd" />
+
 2. Check disk storage:
    ```bash
    df -h
