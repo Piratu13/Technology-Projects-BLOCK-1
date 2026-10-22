@@ -15,10 +15,13 @@ Use CLI commands to inspect your system.
    ```bash
    df -h
    ```
+   <img width="567" height="157" alt="image" src="https://github.com/user-attachments/assets/f3c204b7-296f-4a2f-9a8d-5c55c00d1216" />
+
 3. Check RAM usage:
    ```bash
    free -h
    ```
+<img width="597" height="102" alt="image" src="https://github.com/user-attachments/assets/ca1ea7ff-d06c-4ab1-bc6d-1d87a67b7ece" />
 
 **Upload screenshots for every step**
 
