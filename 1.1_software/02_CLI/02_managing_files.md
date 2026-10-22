@@ -29,10 +29,14 @@ Practise working with files and folders.
    ```bash
    mkdir practice
    ```
+   <img width="1494" height="370" alt="image" src="https://github.com/user-attachments/assets/860ec32f-0fb5-4c9c-b6f4-463226103a0a" />
+
 2. Move into it:
    ```bash
    cd practice
    ```
+   <img width="1500" height="193" alt="image" src="https://github.com/user-attachments/assets/8aa0db23-5624-4839-b58f-454d498899f4" />
+
 3. Create two files:
    ```bash
    touch file1.txt file2.txt
