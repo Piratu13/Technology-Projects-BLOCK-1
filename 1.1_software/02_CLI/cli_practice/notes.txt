@@ -1,0 +1,2 @@
+This is my first Git Bash CLI note!
+Wery exited to learn more skils ))  
