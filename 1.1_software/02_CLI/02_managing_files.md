@@ -81,6 +81,8 @@ I then continued the file-management exercises using Git Bash.
    ```bash
    mv file1.txt notes.txt
    ```
+   <img width="714" height="120" alt="image" src="https://github.com/user-attachments/assets/45d01cc5-3771-419c-bcc2-eb387a6a44f6" />
+
 5. Copy `notes.txt` to a new file called `notes_backup.txt`:
    ```bash
    cp notes.txt notes_backup.txt
