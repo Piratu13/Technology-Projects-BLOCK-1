@@ -21,10 +21,13 @@ Learn to create and edit text files from the CLI.
    - **ENTER** (confirm)  
    - **CTRL + X** (exit)
 
+<img width="809" height="347" alt="image" src="https://github.com/user-attachments/assets/defaddca-dd00-4da5-8d17-50a1f96a9cc0" />
+
 4. View the file contents:
    ```bash
    cat notes.txt
    ```
+<img width="506" height="171" alt="image" src="https://github.com/user-attachments/assets/77377238-64a1-4835-825b-c89d3139b5a8" />
 
 **Commit and push the changes**
 
