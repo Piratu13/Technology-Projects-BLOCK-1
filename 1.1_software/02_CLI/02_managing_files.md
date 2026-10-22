@@ -87,8 +87,12 @@ I then continued the file-management exercises using Git Bash.
    ```bash
    cp notes.txt notes_backup.txt
    ```
+<img width="689" height="215" alt="image" src="https://github.com/user-attachments/assets/fa74af41-ebb7-49da-947f-ea9c94c68244" />
+
+
 6. Delete `file2.txt`:
    ```bash
    rm file2.txt
    ```
+<img width="722" height="204" alt="image" src="https://github.com/user-attachments/assets/ed94b8a9-ce0d-4dd7-94a7-4719086d5805" />
 
