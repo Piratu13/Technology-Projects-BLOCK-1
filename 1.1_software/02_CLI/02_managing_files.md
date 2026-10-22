@@ -6,6 +6,18 @@ Practise working with files and folders.
 
 ### 📝 Tasks
 
+0.1 Move University repository to one drive:
+
+<img width="1165" height="108" alt="image" src="https://github.com/user-attachments/assets/817f0b26-f3ea-4bd6-9ee5-30ec01b0735f" />
+
+0.2 Set the actual OneDrive folder name, find the needed folder automaticly and Test path destination:
+
+<img width="1198" height="241" alt="image" src="https://github.com/user-attachments/assets/c68a8c9e-6208-4c04-8645-5efb3fd77c3d" />
+
+<img width="1248" height="281" alt="image" src="https://github.com/user-attachments/assets/5c3ddd0e-4c6c-4ad6-a286-9d8e441ae81c" />
+
+
+
 *Push everything to your GitHub assigment. Make as many commits as needed.*
 
 1. Create a new folder called `practice` in your CLI directory:
