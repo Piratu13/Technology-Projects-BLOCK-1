@@ -41,6 +41,42 @@ Practise working with files and folders.
    ```bash
    touch file1.txt file2.txt
    ```
+   # CLI Practice — PowerShell vs Git Bash
+
+## Problem encountered
+
+While completing the Managing Files activity, I attempted to create two files using:
+
+`touch file1.txt file2.txt`
+
+PowerShell returned an error stating that `touch` was not recognised as a command.
+
+
+## What I learned
+
+The `touch` command is commonly available in Linux shells and Git Bash, but it is not a standard PowerShell command.
+
+PowerShell uses an alternative command:
+
+`New-Item file1.txt, file2.txt -ItemType File`
+
+## My solution
+
+I switched the VS Code terminal from PowerShell to Git Bash so I could practise the Linux-style commands used in the university activity.
+
+I then continued the file-management exercises using Git Bash.
+
+## Evidence
+
+- Screenshot of the PowerShell error
+
+<img width="1541" height="214" alt="image" src="https://github.com/user-attachments/assets/c64b1eb5-e776-47a9-97d1-4b58b7a1e251" />
+  
+- Screenshot of the successful commands in Git Bash
+
+<img width="1041" height="203" alt="image" src="https://github.com/user-attachments/assets/f8d10747-6f9e-411a-ab43-53719b66f56a" />
+
+  
 4. Rename `file1.txt` to `notes.txt`:
    ```bash
    mv file1.txt notes.txt
