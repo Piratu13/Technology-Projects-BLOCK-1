@@ -19,6 +19,8 @@ Before committing:
 ```bash
 git status
 ```
+<img width="732" height="310" alt="image" src="https://github.com/user-attachments/assets/a34786af-942b-4c41-8d69-e0479050e136" />
+
 This shows:
 - Modified files
 - New files
@@ -32,15 +34,20 @@ To add all changed files:
 ```bash
 git add .
 ```
+<img width="813" height="223" alt="image" src="https://github.com/user-attachments/assets/968a0485-3e77-4cf6-aff8-2450359b307f" />
+
 Or a specific file:
 ```bash
 git add 02_computers/01_hardware_vs_software.md
 ```
+<img width="592" height="90" alt="image" src="https://github.com/user-attachments/assets/11323d10-2d68-4cfc-a67c-86e9035daeaa" />
 
 ### **Commit the Changes**
 ```bash
 git commit -m "Completed personal info of lab journal"
 ```
+<img width="877" height="217" alt="image" src="https://github.com/user-attachments/assets/c00de120-48b2-4f29-a28f-d94e222e247f" />
+
 **Good Commit Messages:**
 - ✅ "Added README introduction"
 - ✅ "Completed Activity 3"
