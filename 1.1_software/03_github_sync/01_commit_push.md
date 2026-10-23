@@ -70,15 +70,23 @@ Upload commits:
 ```bash
 git push
 ```
+<img width="711" height="259" alt="image" src="https://github.com/user-attachments/assets/a23e0664-7f4d-4649-a7bd-9faa7870202c" />
+
 If it is first push:
 ```bash
 git push -u origin main
 ```
+<img width="497" height="120" alt="image" src="https://github.com/user-attachments/assets/18a77aee-c997-438a-ad15-8e14d491e462" />
+
 
 ### **Step 17 — Verify Submission**
 Return to GitHub:
 - Refresh the page
 - Confirm updated files and latest commit
+  <img width="864" height="236" alt="image" src="https://github.com/user-attachments/assets/deca83bf-2da5-40df-b0c6-c8ae13fc4417" />
+
+<img width="684" height="585" alt="image" src="https://github.com/user-attachments/assets/39e8b7f3-afdd-42c2-97b1-3e7a2c00f6bb" />
+
 
 ⚠️ **If it’s not on GitHub, it is not submitted.**
 
