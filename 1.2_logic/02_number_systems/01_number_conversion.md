@@ -1,6 +1,7 @@
 ## Conversion from One Base to Another
 1. **Convert the decimal number 156 to:**
    - Binary
+   
    To convert decimal 156 into binary, I repeatedly divided the number by 2 and recorded the remainder after each division. I continued dividing each quotient by 2 until the quotient became 0. Finally, I read the remainders from bottom to top to obtain the binary number 10011100.
 <img width="468" height="559" alt="image" src="https://github.com/user-attachments/assets/39c7e6af-f704-46b9-8cb2-9db25d3354a9" />
 
