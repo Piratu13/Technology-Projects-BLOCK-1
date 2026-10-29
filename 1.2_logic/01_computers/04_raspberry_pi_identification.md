@@ -29,6 +29,5 @@ images/raspberry-pi/labelled-pi-board.jpg
 Why are many components integrated into a single board in embedded computers such as the Raspberry Pi?
 Write **100 words**.
 
-```
 The Raspberry Pi is a small single board computer with many components integrated onto one single board. It can perform different tasks depending on its hardware capabilities and the software instaled. integrated components onto one board makes the computer compact, affordable and energy eficiente. Becouse the components are close toguether, fewer separate connections and cables are needed, which can improve reliability and simplify manufactoring. The Raspberry Pi it can be used for programming, education, automation, etc. Its small size and relatively low power consuption make it suitable for projects where space coast and electricity usage are important consideration.
 ```
