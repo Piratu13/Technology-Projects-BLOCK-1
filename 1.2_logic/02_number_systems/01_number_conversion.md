@@ -75,5 +75,19 @@
 
 
    - Binary
+
+   To convert hexadecimal 3F9 into binary, I converted each hexadecimal digit into its four-bit binary equivalent. The digit 3 becomes 0011, F becomes 1111, and 9 becomes 1001. Combining these groups gives 001111111001. After removing the two leading zeros, the final binary result is 1111111001.
+   
+<img width="460" height="401" alt="image" src="https://github.com/user-attachments/assets/2f886ec4-7522-48fd-8e01-6911e09dad5e" />
+
+
    - Octal
+
+  To convert hexadecimal 3F9 into octal, I first converted each hexadecimal digit into its 4-bit binary equivalent: 3 = 0011, F = 1111 and 9 = 1001.
+I then regrouped the binary digits into sets of three, starting from the right: 001, 111, 111 and 001.
+Each group was converted into an octal digit: 1, 7, 7 and 1.
+Therefore, hexadecimal 3F9 is equal to octal 1771. 
+
+   <img width="693" height="580" alt="image" src="https://github.com/user-attachments/assets/ec776f88-6154-446f-8fb5-05358af2b0a4" />
+
 
