@@ -2,10 +2,13 @@
 Upload:
 ```
 images/raspberry-pi/pi-board.jpg
+
 ```
 <img width="583" height="511" alt="image" src="https://github.com/user-attachments/assets/514ab1dd-406d-4a40-95c1-323a53fe4b27" />
+
 ```
 images/raspberry-pi/labelled-pi-board.jpg
+
 ```
 <img width="1009" height="485" alt="image" src="https://github.com/user-attachments/assets/2946baa0-f287-4dfa-99db-bee4b4e2d283" />
 ---
