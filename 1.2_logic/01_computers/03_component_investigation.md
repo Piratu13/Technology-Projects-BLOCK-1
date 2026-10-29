@@ -7,9 +7,9 @@ images/components/
 
 | Component | Function | Key Specification |
 |----------|----------|------------------|
-| CPU | | |
-| RAM | | |
-| Storage | | |
-| Motherboard | | |
-| Power Supply | | |
-| Cooling | | |
+| CPU | Executes Instruction | Model, cores, clock speed |
+| RAM | Temporarly stores working data | Capacity, DDR generation, speed |
+| Storage | Stores files and software | SSD/HDD, capacity |
+| Motherboard | Connect components | Manufacturer, model |
+| Power Supply | Provides electrical power | Wattage (W) |
+| Cooling | Removes heat | Fan type, size or model |
